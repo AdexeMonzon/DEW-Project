@@ -41,7 +41,3 @@ El proyecto se desarrolla en **Laravel**, con entornos configurados en **Ubuntu 
 **2. Control de versiones**
 - Instalación y configuración de **Git** (o Bitbucket)  
 
----
-
-## 📦 Estructura del Proyecto Laravel
-Nombre del proyecto:  
